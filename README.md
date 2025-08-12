@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-github repo for mlops learning
+Github repo for mlops learning
